@@ -40,9 +40,6 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank">
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="35" height="35" /></code>
     </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35"/></code> 
-    </a>
     </a>
     <a href="https://jupyter.org" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="35" height="35"/></code> 
@@ -53,6 +50,8 @@
     <a href="https://www.figma.com/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/></code> 
     </a>
+    <a href="https://www.swi-prolog.org" target="_blank"> 
+        <code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F374005%2Fprolog&psig=AOvVaw3hg-pHfWzmA8VulIH5UcCT&ust=1713922640506000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDk4cKZ14UDFQAAAAAdAAAAABAE" alt="prolog" width="35" height="35"/></code> 
     </a>
 </p>
 <br>
