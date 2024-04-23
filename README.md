@@ -42,6 +42,6 @@
         <code><img
 src="https://github.com/devicons/devicon/tree/master/icons/prolog/prolog-original.svg"
 alt="prolog" width="35" height="35" /></code>
-    <a>
+    </a>
 </p>
 <br>
