@@ -35,6 +35,10 @@
     </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35"/></code> 
+    </a>
+    </a>
+    <a href="https://jupyter.org" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="35" height="35"/></code> 
     </a> 
     <a href="https://www.photoshop.com/en" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/></code> 
@@ -46,5 +50,6 @@
         <code><img
             src="https://github.com/devicons/devicon/tree/master/icons/prolog/prolog-original.svg"
             alt="prolog" width="35" height="35" /></code>
+    </a>
 </p>
 <br>
