@@ -13,7 +13,13 @@
     </a> 
     <a href="https://www.python.org" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
-    </a> 
+    </a>
+    <a href="https://www.swi-prolog.org" target="_blank"> 
+        <code><img src="https://www.svgrepo.com/show/374005/prolog.svg" alt="prolog" width="35" height="35"/></code> 
+    </a>
+    <a href="https://www.r-project.org" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="35" height="35"/></code>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
     </a> 
@@ -49,12 +55,6 @@
     </a> 
     <a href="https://www.figma.com/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/></code> 
-    </a>
-    <a href="https://www.swi-prolog.org" target="_blank"> 
-        <code><img src="https://www.svgrepo.com/show/374005/prolog.svg" alt="prolog" width="35" height="35"/></code> 
-    </a>
-    <a href="https://www.r-project.org" target="_blank">
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="35" height="35"/></code>
     </a>
 </p>
 <br>
