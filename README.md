@@ -53,5 +53,8 @@
     <a href="https://www.swi-prolog.org" target="_blank"> 
         <code><img src="https://www.svgrepo.com/show/374005/prolog.svg" alt="prolog" width="35" height="35"/></code> 
     </a>
+    <a href="https://www.r-project.org" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="35" height="35"/></code>
+    </a>
 </p>
 <br>
