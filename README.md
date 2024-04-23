@@ -3,7 +3,6 @@
 
 
 
-
 ## 👨🏼‍🎓 Academic Report 🤖
 
 Currently studying Computer Science at IST,Lisbon.
