@@ -51,7 +51,7 @@
         <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/></code> 
     </a>
     <a href="https://www.swi-prolog.org" target="_blank"> 
-        <code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F374005%2Fprolog&psig=AOvVaw3hg-pHfWzmA8VulIH5UcCT&ust=1713922640506000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDk4cKZ14UDFQAAAAAdAAAAABAE" alt="prolog" width="35" height="35"/></code> 
+        <code><img src="https://www.svgrepo.com/show/374005/prolog.svg" alt="prolog" width="35" height="35"/></code> 
     </a>
 </p>
 <br>
