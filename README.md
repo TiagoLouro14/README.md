@@ -29,6 +29,10 @@
     <a href="https://code.visualstudio.com" target="_blank">
         <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
     </a>
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="35" height="35" /></code>
+    </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35"/></code> 
     </a> 
@@ -42,12 +46,5 @@
         <code><img
             src="https://github.com/devicons/devicon/tree/master/icons/prolog/prolog-original.svg"
             alt="prolog" width="35" height="35" /></code>
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-        <code><img
-            src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"
-            alt="intellij" width="35" height="35" /></code>
-    </a>
-    
 </p>
 <br>
