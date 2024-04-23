@@ -53,10 +53,6 @@
     <a href="https://www.figma.com/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/></code> 
     </a>
-    <a href="https://www.swi-prolog.org" target="_blank">
-        <code><img
-            src="https://github.com/devicons/devicon/tree/master/icons/prolog/prolog-original.svg"
-            alt="prolog" width="35" height="35" /></code>
     </a>
 </p>
 <br>
