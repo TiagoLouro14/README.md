@@ -43,7 +43,6 @@
             src="https://github.com/devicons/devicon/tree/master/icons/prolog/prolog-original.svg"
             alt="prolog" width="35" height="35" /></code>
     </a>
-     </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank">
         <code><img
             src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"
