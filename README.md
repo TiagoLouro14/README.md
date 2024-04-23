@@ -38,17 +38,5 @@
     <a href="https://www.figma.com/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/></code> 
     </a> 
-    <a href="" target="_blank"> 
-        <code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://opencv.org/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://pytorch.org/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
-    </a> 
 </p>
 <br>
