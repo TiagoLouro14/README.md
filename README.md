@@ -27,11 +27,14 @@
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></code> 
     </a>
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.postgresql.org" target="_blank">
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="35" height="35" /></code>
     </a>
     <a href="https://code.visualstudio.com" target="_blank">
         <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="35" height="35" /></code>
     </a>
     </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank">
